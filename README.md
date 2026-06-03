@@ -60,3 +60,19 @@ Currently seeking:
 ## Founder
 
 Rana Amir
+## Screenshots
+
+### Parse Screen
+![Parse Screen](screenshots/Screenshot_20260603_153119.jpg)
+
+### Order Details
+![Order Details](screenshots/Screenshot_20260603_155119.jpg)
+
+### Orders Dashboard
+![Orders Dashboard](screenshots/Screenshot_20260603_155140.jpg)
+
+### Export Flow
+![Export Flow](screenshots/Screenshot_20260603_155147.jpg)
+
+### Analytics
+![Analytics](screenshots/Screenshot_20260603_155152.jpg)
