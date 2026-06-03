@@ -61,9 +61,15 @@ Currently seeking:
 
 Rana Amir
 ## Live Demo
+# ParseFlow
 
-Demo Video:
-[ParseFlow Product Demo](demo/lv_0_20260603162605.mp4)
+AI-powered WhatsApp Order Parser for E-commerce Sellers.
+
+## Live Demo
+
+🎥 Watch Demo:
+https://youtube.com/shorts/aYL2UNYPJwo?si=baMDBRXgNS88sGZ8
+
 ## Screenshots
 
 ### Parse Screen
